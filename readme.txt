@@ -9,3 +9,4 @@ Git is free software. good good study
 
  我吃了个火龙果很好吃
  今天学习了git很愉快
+ 正在干活等会可能突然让我去改bug
