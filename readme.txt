@@ -4,4 +4,7 @@ Git is free software. good good study
 我又吃了一个香蕉,还在学习git
  我又吃了一个栗子
  我有吃了个苹果
+
  我又吃了一个火龙果哈哈哈哈我哈根就
+
+ 我吃了个火龙果很好吃
